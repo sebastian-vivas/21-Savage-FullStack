@@ -1,3 +1,6 @@
+#21 Savage Full Stack
+![](public/21.png)
+
 ## Installation
 
 1. Clone repo
